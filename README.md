@@ -1,2 +1,2 @@
-# about-me-hcm
-about me "hispanic heritage month"
+# about-me-test
+about me, for a "hispanic heritage month" project. not a portfolio just yet!
